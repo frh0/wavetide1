@@ -6,13 +6,13 @@
 
 
 ## Features
-1. explore water activity
-2. book water activity
+- explore water activity
+- book water activity
 
 
 ## Requierements
-Xcode 14
-iPhone with A12 Bionic CPU and later running iOS 16
+- Xcode 14
+- iPhone with A12 Bionic CPU and later running iOS 16
 
 ## Installation
 Build and Run using Xcode 14 and iOS 16 devices with A12 Bionic CPU and later
